@@ -33,11 +33,11 @@ private void Update() {
 
 Ans: This code shows "hello world" on Console for each frame.
 
-"private" means that only other methods within the *same class* can call this method.
+    "private" means that only other methods within the *same class* can call this method.
 
-"void" indicates the return type, void means no-return-value.
+    "void" indicates the return type, void means no-return-value.
 
-"Update()" is a special Unity method that is *automatically called once per every frame*.
+    "Update()" is a special Unity method that is *automatically called once per every frame*.
 
 4. Monobehaviour
 
