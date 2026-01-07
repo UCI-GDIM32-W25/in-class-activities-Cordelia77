@@ -59,4 +59,4 @@ Ans: This code shows "hello world" on Console for each frame.
     Or use _playerTransform instead. Call Translate on the _playerTransform object
 
 ### Activity 3
-
+[W1 activity 3 Google doc](https://docs.google.com/document/d/1RY8G4u76Aeqqu-rppdIJhAqMhHotRh3U2m445UlfjAs/edit?usp=sharing)
