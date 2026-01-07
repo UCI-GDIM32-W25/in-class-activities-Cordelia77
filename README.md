@@ -51,10 +51,13 @@ use to pass input data to the method/function.
 
 7. To operate on someone (move, rotate) -> Use "transform" (in lowercase, referring to "this object"). 
 
-To refer to or store the transformation component of an object -> Use Transform (in uppercase, as a variable type).
+    To refer to or store the transformation component of an object -> Use Transform (in uppercase, as a variable type).
 
 *Translate can only be called on an object. Transform is a class.*
 
 8. use *transform* instead of Transform, since Transform is a class.
 
 Or use _playerTransform instead. Call Translate on the _playerTransform object
+
+### Activity 3
+
