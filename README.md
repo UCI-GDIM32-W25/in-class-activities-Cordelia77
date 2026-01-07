@@ -23,7 +23,6 @@ Also, accept and try to understand the advices gave by playtester, try to imporv
 1. 10
 2. 2
 3. What do these lines of code do? 
-Since MonoBehaviour is the "passport" or "base template class" for all scripts in Unity.
 
 private void Update() { 
     PrintMessage(); 
@@ -42,18 +41,18 @@ Ans: This code shows "hello world" on Console for each frame.
 
 4. Monobehaviour
 
-Since MonoBehaviour is the "passport" or "base template class" for all scripts in Unity.
+    Since MonoBehaviour is the "passport" or "base template class" for all scripts in Unity.
 
 5. Print "x = 10" on the Console when open the game
 6. (10): argument; (“x = ” + x): parameter
 
-use to pass input data to the method/function.
+    use to pass input data to the method/function.
 
 7. To operate on someone (move, rotate) -> Use "transform" (in lowercase, referring to "this object"). 
 
     To refer to or store the transformation component of an object -> Use Transform (in uppercase, as a variable type).
 
-*Translate can only be called on an object. Transform is a class.*
+    *Translate can only be called on an object. Transform is a class.*
 
 8. use *transform* instead of Transform, since Transform is a class.
 
