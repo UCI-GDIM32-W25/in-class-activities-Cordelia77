@@ -22,7 +22,23 @@ Also, accept and try to understand the advices gave by playtester, try to imporv
 ### Activity 2
 1. 10
 2. 2
-3. What do these lines of code do?
+3. What do these lines of code do? 
+Since MonoBehaviour is the "passport" or "base template class" for all scripts in Unity.
+
+private void Update() { 
+    PrintMessage(); 
+} 
+    private void PrintMessage() { 
+        Debug.Log(“hello world”); 
+}
+
+Ans: "private" means that only other methods within the *same class* can call this method.
+
+"void" indicates the return type, void means no-return-value.
+
+"Update()" is a special Unity method that is *automatically called once per every frame*.
+
+This code shows "hello world" on Console for each frame.
 4. Monobehaviour
 
 Since MonoBehaviour is the "passport" or "base template class" for all scripts in Unity.
