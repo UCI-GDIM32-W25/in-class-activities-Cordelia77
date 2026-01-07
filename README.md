@@ -40,3 +40,13 @@ Since MonoBehaviour is the "passport" or "base template class" for all scripts i
 #### q5
 Print "x = 10" on the Console when open the game
 #### q6
+(10): argument
+(“x = ” + x): parameter
+use to pass input data to the method/function.
+#### q7
+To operate on someone (move, rotate) -> Use "transform" (in lowercase, referring to "this object"). 
+To refer to or store the transformation component of an object -> Use Transform (in uppercase, as a variable type).
+*Translate can only be called on an object. Transform is a class.*
+#### q8
+use *transform* instead of Transform, since Transform is a class.
+Or use _playerTransform instead. Call Translate on the _playerTransform object
