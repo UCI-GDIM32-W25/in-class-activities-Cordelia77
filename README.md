@@ -24,12 +24,12 @@ Also, accept and try to understand the advices gave by playtester, try to imporv
 2. 2
 3. What do these lines of code do? 
 
-    private void Update() { 
-        PrintMessage(); 
-    } 
-        private void PrintMessage() { 
-            Debug.Log(“hello world”); 
-    }
+        private void Update() { 
+            PrintMessage(); 
+        } 
+            private void PrintMessage() { 
+                Debug.Log(“hello world”); 
+        }
 
 Ans: This code shows "hello world" on Console for each frame.
     
