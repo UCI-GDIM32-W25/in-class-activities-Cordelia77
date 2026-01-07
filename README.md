@@ -39,6 +39,7 @@ Ans: "private" means that only other methods within the *same class* can call th
 "Update()" is a special Unity method that is *automatically called once per every frame*.
 
 This code shows "hello world" on Console for each frame.
+
 4. Monobehaviour
 
 Since MonoBehaviour is the "passport" or "base template class" for all scripts in Unity.
@@ -49,11 +50,13 @@ Since MonoBehaviour is the "passport" or "base template class" for all scripts i
 (“x = ” + x): parameter
 
 use to pass input data to the method/function.
+
 7. To operate on someone (move, rotate) -> Use "transform" (in lowercase, referring to "this object"). 
 
 To refer to or store the transformation component of an object -> Use Transform (in uppercase, as a variable type).
 
 *Translate can only be called on an object. Transform is a class.*
+
 8. use *transform* instead of Transform, since Transform is a class.
 
 Or use _playerTransform instead. Call Translate on the _playerTransform object
