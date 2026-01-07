@@ -45,9 +45,7 @@ Ans: This code shows "hello world" on Console for each frame.
 Since MonoBehaviour is the "passport" or "base template class" for all scripts in Unity.
 
 5. Print "x = 10" on the Console when open the game
-6. (10): argument
-
-(“x = ” + x): parameter
+6. (10): argument; (“x = ” + x): parameter
 
 use to pass input data to the method/function.
 
