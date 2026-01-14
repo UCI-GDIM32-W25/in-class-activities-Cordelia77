@@ -48,3 +48,8 @@ Ans: This code shows "hello world" on Console for each frame.
 
 ### Activity 3
 [W1 activity 3 Google doc](https://docs.google.com/document/d/1RY8G4u76Aeqqu-rppdIJhAqMhHotRh3U2m445UlfjAs/edit?usp=sharing)
+
+
+## W2
+### Activity 1
+<img width="1635" height="1054" alt="image" src="https://github.com/user-attachments/assets/167b1cb7-0950-4450-b377-15ed3b772836" />
