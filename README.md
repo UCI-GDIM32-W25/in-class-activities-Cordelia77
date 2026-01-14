@@ -55,4 +55,6 @@ Ans: This code shows "hello world" on Console for each frame.
 <img width="1635" height="1054" alt="image" src="https://github.com/user-attachments/assets/167b1cb7-0950-4450-b377-15ed3b772836" />
 
 ### Activity 2
-
+[In-class pre-mg2](https://github.com/UCI-GDIM32-W25/mg2-Cordelia77/commit/795f96de425685d197bca73a275254e31129d6a2)
+[In-class pre-mg2 second](https://github.com/UCI-GDIM32-W25/mg2-Cordelia77/commit/e3acbbd3262e110fb6e4b1e0b265ebe8d7a4b148)
+[In-class pre-mg2 third](https://github.com/UCI-GDIM32-W25/mg2-Cordelia77/commit/d1571057735ab347de4812048e164812397d6a9f)
