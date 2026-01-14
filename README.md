@@ -53,3 +53,6 @@ Ans: This code shows "hello world" on Console for each frame.
 ## W2
 ### Activity 1
 <img width="1635" height="1054" alt="image" src="https://github.com/user-attachments/assets/167b1cb7-0950-4450-b377-15ed3b772836" />
+
+### Activity 2
+
