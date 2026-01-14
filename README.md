@@ -64,6 +64,5 @@ Ans: This code shows "hello world" on Console for each frame.
 [In-class pre-mg2 third](https://github.com/UCI-GDIM32-W25/mg2-Cordelia77/commit/d1571057735ab347de4812048e164812397d6a9f)
 
 What I have done: I created the scene (the ground), the sprites of the penguins and the gold coins, and attached their rigidbodies and colliders, and also bound their scripts.
-
 One small issue faced during the process was that the things I made kept being saved in my newly created hierarchy instead of the provided "main". 
-With the help of LA, I created a new "main" for it and replaced the old one. (Now, "main" inside refers to my work, while "main3" is empty.)
+With the help of TA, I created a new "main" for it and replaced the old one. (Now, "main" inside refers to my work, while "main3" is empty.)
