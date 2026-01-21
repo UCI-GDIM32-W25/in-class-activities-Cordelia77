@@ -66,3 +66,10 @@ Ans: This code shows "hello world" on Console for each frame.
 What I have done: I created the scene (the ground), the sprites of the penguins and the gold coins, and attached their rigidbodies and colliders, and also bound their scripts.
 One small issue faced during the process was that the things I made kept being saved in my newly created hierarchy instead of the provided "main". 
 With the help of TA, I created a new "main" for it and replaced the old one. (Now, "main" inside refers to my work, while "main3" is empty.)
+
+
+## W3
+### Activity 0-2
+I work with Peiyi Xiong.
+### Activity 3
+
