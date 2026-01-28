@@ -74,3 +74,10 @@ I work with Peiyi Xiong.
 ### Activity 3
 <img width="1861" height="1264" alt="image" src="https://github.com/user-attachments/assets/1cad6947-94f6-4305-b1e3-9bf8f001dea9" />
 
+
+## W4
+### Activity 0
+I work with Tina Meng.
+
+### Activity 1
+When the game is awake and running, multiple locators in the hierarchy are reduced to only one. Because it was destroyed.
