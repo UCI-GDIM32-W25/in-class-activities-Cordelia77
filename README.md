@@ -81,3 +81,7 @@ I work with Tina Meng.
 
 ### Activity 1
 When the game is awake and running, multiple locators in the hierarchy are reduced to only one. Because it was destroyed.
+
+### Activity 2
+<img width="1642" height="1053" alt="image" src="https://github.com/user-attachments/assets/95a5ee6f-163f-4d44-a891-4c0e309625ec" />
+
