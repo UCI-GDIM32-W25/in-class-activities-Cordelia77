@@ -87,7 +87,7 @@ When the game is awake and running, multiple locators in the hierarchy are reduc
 
 
 ### Activity 3
-https://github.com/Cordelia77/HW4/commit/298d53f87b18bae14b0db9302f81838a77eaed33
+[github undate link](https://github.com/Cordelia77/HW4/commit/298d53f87b18bae14b0db9302f81838a77eaed33)
 
 I independently initiated the creation of a project by using the Link tool. All the major sections in the hierarchy have been constructed. Then the parts of the sprite were divided. Adjusted the size of the game view and made it vertical.
 The Sprite's resources were downloaded and successfully imported into Unity.
