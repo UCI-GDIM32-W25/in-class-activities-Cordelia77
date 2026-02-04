@@ -122,3 +122,5 @@ Singleton: Provide player locator function
 Inheritance: Realize general logic of beat movement, disappearance and score addition
 
 ### Activity 4
+All members in our team are present.
+Attendance: Yuxin Ding, Yan Zhang, Tina Meng
