@@ -124,3 +124,5 @@ Inheritance: Realize general logic of beat movement, disappearance and score add
 ### Activity 4
 All members in our team are present.
 Attendance: Yuxin Ding, Yan Zhang, Tina Meng
+
+[Final Project Draft](https://docs.google.com/document/d/1oGQXyqTOWLLG3tDOO_RGtfLVnASe5ZuaAI4uGt-2Nhs/edit?usp=sharing)
