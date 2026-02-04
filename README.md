@@ -91,3 +91,34 @@ When the game is awake and running, multiple locators in the hierarchy are reduc
 
 I independently initiated the creation of a project by using the Link tool. All the major sections in the hierarchy have been constructed. Then the parts of the sprite were divided. Adjusted the size of the game view and made it vertical.
 The Sprite's resources were downloaded and successfully imported into Unity.
+
+
+## W5
+### Activity 1
+#### Devlog
+I think this design is reasonable. It effectively applies the core concept of object-oriented programming. An abstract class is like a "template", defining the common attributes and behaviors that all entities must implement, ensuring code consistency and avoiding duplication. An interface is more like a "contract", specifying what an object can do but not caring about its specific nature. This makes the code very flexible, facilitating the addition of the same functionality for different objects. The combination of the two results in a clear program structure, making it easy to maintain and expand.
+I will retain this core design because it is very classic and efficient.
+
+### Activity 2
+Model: Item.cs, Enemystats.cs
+View: DialogueBubble.cs, Inventory.cs
+Controller: Enemy.cs, Player.cs
+
+### Activity 3
+Scenario 1-
+*scriptableobjects: each button (sprites, _movespeed)
+finite state machine: player whether missed button & different scores each button will give
+model-view-controller:
+    - model: list of buttons(buttons)
+    - view: score UI, time count down
+    - controller: response to player's finger, 
+singleton: locator of player
+inheritance: button move to a place, button disappear and add scores.*
+
+ScriptableObjects: Store beat sprites, move speed and other config data
+Finite State Machine: Judge player's beat miss status, assign different scores for different judgment levels
+MVC: Model = beat list, View = score UI & countdown timer, Controller = respond to player input
+Singleton: Provide player locator function
+Inheritance: Realize general logic of beat movement, disappearance and score addition
+
+### Activity 4
