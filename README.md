@@ -129,3 +129,10 @@ Attendance: Yuxin Ding, Yan Zhang, Tina Meng
 
 
 ## W6
+### Activity 1
+
+
+### Activity 2
+Attendance: Yuxin Ding, Tina Meng, Yan Zhang
+[final draft document link](https://docs.google.com/document/d/1oGQXyqTOWLLG3tDOO_RGtfLVnASe5ZuaAI4uGt-2Nhs/edit?usp=sharing)
+Still in process.
