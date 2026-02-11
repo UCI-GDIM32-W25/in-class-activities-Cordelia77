@@ -146,6 +146,8 @@ For example, it can show if a certain frame suddenly slows down, and where exact
 - **Gizmos:** Showing the distance between player and objects (how far apart will objects be collided); and the direction objects toward (red arrow); collider range (rigidbody blue circle collider)
 - Gizmos only seen in Scene. gizmos.cs
 - **Breakpoints:** coding page, left line click red dot. -> *Stop program running and to see what happen with the code.*
+- Call stack can directly see the sequence of function calls during runtime.
+  
 
 ### Activity 2
 Attendance: Yuxin Ding, Tina Meng, Yan Zhang
