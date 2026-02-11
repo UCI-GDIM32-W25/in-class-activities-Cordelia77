@@ -130,7 +130,7 @@ Attendance: Yuxin Ding, Yan Zhang, Tina Meng
 
 ## W6
 ### Activity 1
-- Profiler: is in Window -> Analyse -> profiler
+- **Profiler:** is in Window -> Analyse -> profiler
   
 It can help me identify which part of the game is causing the overall lagging. It can monitor performance and conduct analysis.
 
@@ -143,7 +143,9 @@ For example, it can show if a certain frame suddenly slows down, and where exact
 <img width="1860" height="900" alt="image" src="https://github.com/user-attachments/assets/79c2587a-29ff-435c-893a-8f38b3fc3d02" />
 
 - Important to test Web build (itch build)
-  
+- **Gizmos:** Showing the distance between player and objects (how far apart will objects be collided); and the direction objects toward (red arrow); collider range (rigidbody blue circle collider)
+- Gizmos only seen in Scene. gizmos.cs
+- **Breakpoints:** coding page, left line click red dot. -> *Stop program running and to see what happen with the code.*
 
 ### Activity 2
 Attendance: Yuxin Ding, Tina Meng, Yan Zhang
