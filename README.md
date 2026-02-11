@@ -130,7 +130,13 @@ Attendance: Yuxin Ding, Yan Zhang, Tina Meng
 
 ## W6
 ### Activity 1
+- Profiler: is in Window -> Analyse -> profiler
+It can help me identify which part of the game is causing the overall lagging. It can monitor performance and conduct analysis.
+For example, it can show if a certain frame suddenly slows down, and where exactly is the problem.
 
+- Avoiding use GetComponent() method, unless is necessary. (Do not use it too often, it's slow)
+- Don't use GetComponent() in Update. *Just use it at Start (public class: mono...) or in Start.*
+<img width="1860" height="900" alt="image" src="https://github.com/user-attachments/assets/79c2587a-29ff-435c-893a-8f38b3fc3d02" />
 
 ### Activity 2
 Attendance: Yuxin Ding, Tina Meng, Yan Zhang
