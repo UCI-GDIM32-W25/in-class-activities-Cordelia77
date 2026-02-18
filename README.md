@@ -181,4 +181,5 @@ Attendance: Yuxin Ding, Tina Meng, Yan Zhang
 <img width="894" height="1014" alt="image" src="https://github.com/user-attachments/assets/308ebf7b-cacb-42a8-bdb3-739f0b627eeb" />
 
 ### Activity 4
+[Trello Board task assignments](https://trello.com/invite/b/69951b72679c6bfc86fd7473/ATTI70c8a41e7621770b66384972757bdf5a7B9012D8/gdim-32-final)
 ### Activity 5
