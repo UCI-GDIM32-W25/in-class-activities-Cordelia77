@@ -183,3 +183,6 @@ Attendance: Yuxin Ding, Tina Meng, Yan Zhang
 ### Activity 4
 [Trello Board task assignments](https://trello.com/invite/b/69951b72679c6bfc86fd7473/ATTI70c8a41e7621770b66384972757bdf5a7B9012D8/gdim-32-final)
 ### Activity 5
+[Final Project](https://github.com/tinamengxq/GDIM32-Final/commits/main/)
+
+Schedule final project component, starting creating cs.files with teammates.
