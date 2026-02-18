@@ -153,3 +153,28 @@ For example, it can show if a certain frame suddenly slows down, and where exact
 Attendance: Yuxin Ding, Tina Meng, Yan Zhang
 [final draft document link](https://docs.google.com/document/d/1oGQXyqTOWLLG3tDOO_RGtfLVnASe5ZuaAI4uGt-2Nhs/edit?usp=sharing)
 Still in process.
+
+
+## W7
+### Activity 1
+**Raycast**: bool, *the red line*
+
+Send out an invisible line to see if it hits anything.
+- yes (hit): ture
+- no: false
+
+
+HitInfo: (maybe also called RaycastHit?): If you actually hit something, let you know what it is.
+
+
+RunWonderState: walk around randomly.
+
+**Sphere Cast**: Throw a "ball/sphere" forward and see if it will hit anything.
+Comparing with *Raycast*, the raycast is thin and it is just a line. 
+If the object is very small and moves very fast, it might just "brush past" and not be detected. 
+SphereCast has a radius (thickness), which makes it easier to detect collisions.
+
+
+### Activity 2
+Attendance: Yuxin Ding, Tina Meng, Yan Zhang
+### Activity 3 final break-down
