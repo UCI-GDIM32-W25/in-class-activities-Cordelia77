@@ -178,3 +178,7 @@ SphereCast has a radius (thickness), which *makes it easier to detect collisions
 ### Activity 2
 Attendance: Yuxin Ding, Tina Meng, Yan Zhang
 ### Activity 3 final break-down
+<img width="894" height="1014" alt="image" src="https://github.com/user-attachments/assets/308ebf7b-cacb-42a8-bdb3-739f0b627eeb" />
+
+### Activity 4
+### Activity 5
