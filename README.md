@@ -172,7 +172,7 @@ RunWonderState: walk around randomly.
 **Sphere Cast**: Throw a "ball/sphere" forward and see if it will hit anything.
 Comparing with *Raycast*, the raycast is thin and it is just a line. 
 If the object is very small and moves very fast, it might just "brush past" and not be detected. 
-SphereCast has a radius (thickness), which makes it easier to detect collisions.
+SphereCast has a radius (thickness), which *makes it easier to detect collisions*.
 
 
 ### Activity 2
