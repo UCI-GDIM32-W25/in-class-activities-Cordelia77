@@ -186,3 +186,29 @@ Attendance: Yuxin Ding, Tina Meng, Yan Zhang
 [Final Project](https://github.com/tinamengxq/GDIM32-Final/commits/main/)
 
 Schedule final project component, starting creating cs.files with teammates.
+
+
+## W8
+### Activity 1
+**Rendering Pipeline:** The complete process of determining how the game graphics are drawn onto the screen.
+
+
+- what be rendered
+- order of rendering
+- how CPU and GPU work together
+
+-> BUild-in
+-> URP
+->HDRP
+If there is "Not compatible", it cannot be used.
+
+**How to check Pipeline:** Edit-Project Settings-Graphics
+-If SRP Settings is empty → Built-in
+-If there is an asset → URP or HDRP
+
+
+### Activity 2
+Attendance: Yuxin Ding, Tina Meng, Yan Zhang
+
+### Activity 3
+
