@@ -206,6 +206,7 @@ Schedule final project component, starting creating cs.files with teammates.
 If there is "Not compatible", it cannot be used.
 
 **How to check Pipeline:** Edit-Project Settings-Graphics
+
 -If SRP Settings is empty → Built-in
 
 -If there is an asset → URP or HDRP
