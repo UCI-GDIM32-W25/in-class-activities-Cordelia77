@@ -227,3 +227,4 @@ Add and improve the scene and fix minor bugs; Find sound effect for Cat Playing
 
 ### Activity 5
 The initial stage involved importing some of the environmental materials and carrying out some of the ground work.
+[What we did today](https://github.com/tinamengxq/GDIM32-Final/commit/f9f2a3fd564c0d68345d73330b164d7cfec18901)
