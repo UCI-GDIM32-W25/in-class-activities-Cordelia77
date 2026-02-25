@@ -219,7 +219,7 @@ Attendance: Yuxin Ding, Tina Meng, Yan Zhang
 The scene is very beautiful and the characters have distinct features. The UI can be further improved, and some of the interaction codes may also be enhanced. The overall game has taken shape and can now incorporate background music and sound effects (not have yet).
 
 
-Buddy Team's playtest notes to us: The Zoo team’s scene is relatively basic (only one platform), but the interaction is well‑designed. What is confusing is that the to‑do list provides no result or feedback whatsoever after a task is completed.
+**Buddy Team's playtest notes to us:** The Zoo team’s scene is relatively basic (only one platform), but the interaction is well‑designed. What is confusing is that the to‑do list provides no result or feedback whatsoever after a task is completed.
 
 ### Activity 4
 Add and improve the scene and fix minor bugs; Find sound effect for Cat Playing
