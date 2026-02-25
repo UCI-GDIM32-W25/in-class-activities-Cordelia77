@@ -218,3 +218,6 @@ Attendance: Yuxin Ding, Tina Meng, Yan Zhang
 ### Activity 3
 The scene is very beautiful and the characters have distinct features. The UI can be further improved, and some of the interaction codes may also be enhanced. The overall game has taken shape and can now incorporate background music and sound effects (not have yet).
 
+
+### Activity 4
+Add and improve the scene and fix minor bugs
