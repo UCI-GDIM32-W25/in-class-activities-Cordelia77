@@ -223,3 +223,7 @@ The scene is very beautiful and the characters have distinct features. The UI ca
 
 ### Activity 4
 Add and improve the scene and fix minor bugs; Find sound effect for Cat Playing
+
+
+### Activity 5
+The initial stage involved importing some of the environmental materials and carrying out some of the ground work.
