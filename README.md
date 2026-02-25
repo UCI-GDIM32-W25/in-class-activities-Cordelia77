@@ -198,7 +198,11 @@ Schedule final project component, starting creating cs.files with teammates.
 - how CPU and GPU work together
 
 -> BUild-in
+
+
 -> URP
+
+
 ->HDRP
 If there is "Not compatible", it cannot be used.
 
