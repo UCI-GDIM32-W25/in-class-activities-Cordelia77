@@ -220,4 +220,4 @@ The scene is very beautiful and the characters have distinct features. The UI ca
 
 
 ### Activity 4
-Add and improve the scene and fix minor bugs
+Add and improve the scene and fix minor bugs; Find sound effect for Cat Playing
