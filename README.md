@@ -228,3 +228,20 @@ Add and improve the scene and fix minor bugs; Find sound effect for Cat Playing
 ### Activity 5
 The initial stage involved importing some of the environmental materials and carrying out some of the ground work.
 [What we did today](https://github.com/tinamengxq/GDIM32-Final/commit/f9f2a3fd564c0d68345d73330b164d7cfec18901)
+
+
+## W8
+### Activity 1
+*_activeDialogue* is a variable used to store the current conversation.
+It controls:
+1. Whether the sentence can be continued to be played
+2. Whether the player is allowed to move
+3. Whether the conversation has ended
+
+
+### Activity 2
+Attendance: Yuxin Ding, Tina Meng, Yan Zhang
+
+### Activity 3
+### Activity 4
+### Activity 5
