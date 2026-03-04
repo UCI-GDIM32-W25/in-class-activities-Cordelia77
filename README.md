@@ -230,7 +230,7 @@ The initial stage involved importing some of the environmental materials and car
 [What we did today](https://github.com/tinamengxq/GDIM32-Final/commit/f9f2a3fd564c0d68345d73330b164d7cfec18901)
 
 
-## W8
+## W9
 ### Activity 1
 *_activeDialogue* is a variable used to store the current conversation.
 It controls:
