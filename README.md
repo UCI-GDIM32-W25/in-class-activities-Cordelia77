@@ -240,15 +240,22 @@ It controls:
 
 
 When the player clicks on a certain option: 
+
 Read the "next node" pointed to by this option -> Update _activeDialogue to that node -> Re-display the text and options
 
 
 If the current node: 
+
 No options. 
+
 Or mark as the end node 
+
 Then: 
+
 Set _activeDialogue to null 
+
 Close the UI 
+
 Restore player control
 
 
