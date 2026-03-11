@@ -292,3 +292,5 @@ I assume the role of the captain. We would like to know if the playtesters under
 We wanted to improve the dialogue part by changing the script in UI and dialogue managers to be using scriptableobject. We did such things but enormous bugs appeared. Our game broke down and the quest can not be called. But in our scripts, everything worked well, we couldn't find any error in codes. We plan to solve one bug in class. And try to solve the other bug in class or after class.
 
 ### Activity 4
+[update link](https://github.com/tinamengxq/GDIM32-Final/commit/82dcddd658cdbf13166c89ded4b9297ad0a4f150)
+We are continuously optimizing and modifying the dialogue and UI, but no issues have been resolved. We are currently attempting to further revise the code.
